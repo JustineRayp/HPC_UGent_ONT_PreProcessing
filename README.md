@@ -15,7 +15,7 @@ This script is designed to perform various analyses on nanopore sequencing data,
 ## Usage
 Modify the script's parameters according to your specific dataset and analysis requirements.
 ```
-./Main_Script_Test6-J.sh -p -t -w -n <num_samples> -r -k <KIT_NAME> -c -W
+./ONT_PrePro_Pipeline.sh -p -t -w -n <num_samples> -r -k <KIT_NAME> -c -W
 ```
 
 - -p <InputDataPath>: Path to input data.
